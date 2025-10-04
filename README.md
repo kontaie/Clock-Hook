@@ -8,13 +8,13 @@ It is built on top of the [IUIAutomation COM interface](https://learn.microsoft.
 - When you hover over the **Start button** (or any element you choose), it registers an event handler.
 - The event handler listens for **Invoke events** (for example, when the element is clicked or activated).
 - When triggered, it prints out the element’s name to the console.
+- for now this demo just invokes the event handler when the Start button on windows clock timer is pressed.
 
 In short, this project shows how your code can "listen" to UI actions happening in Windows and respond to them.
 
 ## 🛠️ Technologies Used
 - **C++** with COM
 - **Windows UI Automation Core Library**
-- **Multithreading (for polling and event handling)**
 
 ## 🚀 Getting Started
 1. Clone the repository.
