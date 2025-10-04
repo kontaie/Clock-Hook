@@ -28,11 +28,5 @@ If you’re new to Windows UI Automation, check out Microsoft’s official docum
 🔗 [Windows UI Automation Overview](https://learn.microsoft.com/en-us/windows/win32/winauto/entry-uiauto-win32)  
 🔗 [IUIAutomation Interface](https://learn.microsoft.com/en-us/windows/win32/api/uiautomationclient/nn-uiautomationclient-iuiautomation)
 
-## ✨ Why This Project?
-This is a simple but practical example of how developers can:
-- Explore the Windows UI Automation framework.
-- Learn how to subscribe to and handle UI events.
-- Build accessibility tools or automated testing utilities.
-
 ---
 
