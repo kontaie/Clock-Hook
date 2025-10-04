@@ -29,4 +29,5 @@ If you’re new to Windows UI Automation, check out Microsoft’s official docum
 🔗 [IUIAutomation Interface](https://learn.microsoft.com/en-us/windows/win32/api/uiautomationclient/nn-uiautomationclient-iuiautomation)
 
 ---
+<img width="368" height="437" alt="image" src="https://github.com/user-attachments/assets/ff66f70d-46a9-4e12-b256-111e1adf9436" />
 
